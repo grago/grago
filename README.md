@@ -6,7 +6,11 @@ Senior Mobile and Web Apps Developer
 
 Hello, my name is Gustavo Rago, and i am a native mobile developer both for iOS and Android from Argentina. I'm also a fullstack web developer. For more than 20 years i've worked developing applications like FOX Play, BBVA Go, and some startups, published on iOS and Android. I've also developer internal applications/websites for companies like Disney Latin America, and Coca-Cola Argentina / Coca-Cola FEMSA. 
 
-* 🌍  I'm based in Buenos Aires, Argentina * 🖥️  See my portfolio at [www.blkpos.com/portfolio](http:///www.blkpos.com/portfolio.com) * ✉️  You can contact me at [grago@blkpos.com](mailto:grago@blkpos.com) * 🧠  I'm learning SwiftUI, Jetpack Compose and Next.js * 🤝  I'm open to collaborating on challenging and innovative projects where technology can make a difference.
+* 🌍  I'm based in Buenos Aires, Argentina 
+* 🖥️  See my portfolio at [www.blkpos.com/portfolio](http:///www.blkpos.com/portfolio.com) 
+* ✉️  You can contact me at [grago@blkpos.com](mailto:grago@blkpos.com) 
+* 🧠  I'm learning SwiftUI, Jetpack Compose and Next.js 
+* 🤝  I'm open to collaborating on challenging and innovative projects where technology can make a difference.
 
 <a href="https://www.twitter.com/grago" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/grago?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
