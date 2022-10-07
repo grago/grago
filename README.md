@@ -4,7 +4,7 @@ Hi 👋 My name is Gustavo Rago
 Senior Mobile and Web Apps Developer 
 ------------------------------------
 
-Hello, my name is Gustavo Rago, and i am a native mobile developer both for iOS and Android from Argentina. I'm also a fullstack web developer. For more than 20 years i've worked developing applications like FOX Play, BBVA Go, and some startups, published on iOS and Android. I've also developer internal applications/websites for companies like Disney Latin America, and Coca-Cola Argentina / Coca-Cola FEMSA. 
+Hello, my name is Gustavo Rago, and i am a native mobile developer both for iOS and Android from Argentina. I'm also a fullstack web developer. For more than 20 years i've worked developing applications like FOX Play, BBVA Go and other projects for startup companies, published for iOS and Android. I've also developed internal applications/websites for companies like Disney Latin America, and Coca-Cola Argentina / Coca-Cola FEMSA. 
 
 * 🌍  I'm based in Buenos Aires, Argentina 
 * 🖥️  See my portfolio at [www.blkpos.com/portfolio](http:///www.blkpos.com/portfolio.com) 
