@@ -10,7 +10,7 @@ Hello, my name is Gustavo Rago, and i am a native mobile developer both for iOS 
 * 🖥️  See my portfolio at [www.blkpos.com/portfolio](http:///www.blkpos.com/portfolio.com) 
 * ✉️  You can contact me at [grago@blkpos.com](mailto:grago@blkpos.com) 
 * 🧠  I'm learning SwiftUI, Jetpack Compose and Next.js 
-* 🤝  I'm open to collaborating on challenging and innovative projects where technology can make a difference.
+* 🤝  I'm open to collaborate on challenging and innovative projects where technology can make a difference.
 
 <a href="https://www.twitter.com/grago" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/grago?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
